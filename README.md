@@ -14,4 +14,4 @@ The generated images are inside `gen_img` folder (looks good to me, except it ha
 run `net.py`, sorry the code is not in a good structure because I was only focusing on implementing the theory I learned.
 
 # Improvements
-It is hard to use this model on larger images (I have tested it, it failed). I am focusing on learning how to improve the loss functions so the gradient is visible by the generator, also I will check more papers about how this is scaled.
+It is hard to use this model on larger images (I have tested it, it failed. The result is on my GAN_v1_failure repo). I am focusing on learning how to improve the loss functions so the gradient is visible by the generator, also I will check more papers about how this is scaled.
